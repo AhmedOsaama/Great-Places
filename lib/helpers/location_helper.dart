@@ -1,7 +1,7 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-const MAPS_API_KEY = 'AIzaSyCQvevtBtLTsr4unyrHX3ClZMqjNDuwVj0';
+const MAPS_API_KEY = '-------------------------------------';
 
 class LocationHelper {
   static String generateLocationPreviewImage(
